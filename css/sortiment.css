@@ -1,13 +1,44 @@
-
+#grid_3-3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 5px;
+}
+.kage {
+    width: 90%;
+    aspect-ratio: 1/1.5;
+    padding: 1%;
+    margin: 5%;
+}
 .sportskage{
-
+    background-color: #ECD7B2
 }
 .othellolagkage{
-
+    background-color: #544829;
+    opacity: 21%;
 }
 .forårskage{
-
+    background-color: #FFDCF1;
+    opacity: 61%;
 }
 .valnøddekage{
-
+    background-color: #E1D0B0;
+}
+.efterårskage{
+    background-color: #956A51;
+    opacity: 36%;
+}
+.volmerSørensen{
+    background-color: #CBA198;
+}
+.georginekage{
+    background-color: #FFE4E4;
+}
+.karenBlixen{
+    background-color: #AD7B5F;
+    opacity: 28%;
+}
+.hcHat{
+    background-color: #956A51;
+    opacity: 47%;
 }
