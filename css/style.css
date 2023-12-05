@@ -40,6 +40,13 @@ h1 {
   font-weight: 400;
 }
 
+h2 {
+  font-family: "Cormorant Garamond", sans-serif;
+  color: black;
+  font-size: 40px;
+  font-weight: 400;
+}
+
 p {
   font-family: "Cormorant Garamond", sans-serif;
   color: black;
