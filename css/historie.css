@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+}
+
+.grid_1-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+}
