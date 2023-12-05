@@ -2,7 +2,7 @@
   font-family: "Cormorant Garamond";
   src: url(../fonts/CormorantGaramond-Regular.woff2);
 }
-ul {
+.tider {
   font-family: "Cormorant Garamond";
   list-style-type: none;
   font-size: 20px;
