@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url(../fonts/CormorantGaramond-Regular.woff2);
+}
+ul {
+  font-family: "Cormorant Garamond";
+  list-style-type: none;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+/* Grid */
+.grid_besøg {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 1em;
+  align-items: center;
+}
+
+.højre_grid {
+  margin: auto;
+}
+
+.venstre_grid {
+  margin: auto;
+}
