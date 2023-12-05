@@ -9,24 +9,22 @@
     aspect-ratio: 1/1.5;
     padding: 1%;
     margin: 5%;
+    text-align: center;
 }
 .sportskage{
     background-color: #ECD7B2
 }
 .othellolagkage{
-    background-color: #544829;
-    opacity: 21%;
+    background-color: #D6D1C4;
 }
 .forårskage{
-    background-color: #FFDCF1;
-    opacity: 61%;
+    background-color: #FDE6F0;
 }
 .valnøddekage{
     background-color: #E1D0B0;
 }
 .efterårskage{
-    background-color: #956A51;
-    opacity: 36%;
+    background-color: #D5C3B5;
 }
 .volmerSørensen{
     background-color: #CBA198;
@@ -35,10 +33,11 @@
     background-color: #FFE4E4;
 }
 .karenBlixen{
-    background-color: #AD7B5F;
-    opacity: 28%;
+    background-color: #E4D3C5;
 }
 .hcHat{
-    background-color: #956A51;
-    opacity: 47%;
+    background-color: #CAB3A4;
+}
+img{
+    margin-top: 15%;
 }
