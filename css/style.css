@@ -1,23 +1,54 @@
-body{
-    background-color: #FAF4EA;
+body {
+  background-color: #faf4ea;
 }
 /* Header */
-.header{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    list-style: none;
-  }
-  header a{
-    text-decoration: none;
-    color: black;
-    font-size: 1rem;
-    margin-right: 59px;
-  }
-  .logo{
-    width: 30%;
-    height: auto;
-  }
-  header{
-    text-align: center;
-  }
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+}
+header a {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  margin-right: 59px;
+}
+.logo {
+  width: 30%;
+  height: auto;
+}
+header {
+  text-align: center;
+}
+
+/* skrift typer */
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url(../fonts/CormorantGaramond-Regular.woff2);
+}
+
+@font-face {
+  font-family: "Tangerine";
+  src: url(../fonts/Tangerine-Bold.woff2);
+}
+
+h1 {
+  font-family: "Tangerine", cursive;
+  color: black;
+  font-size: 100px;
+  font-weight: 400;
+}
+
+p {
+  font-family: "Cormorant Garamond", sans-serif;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+a {
+  font-family: "Cormorant Garamond", sans-serif;
+  color: black;
+  font-size: 30px;
+  font-weight: 600;
+}
