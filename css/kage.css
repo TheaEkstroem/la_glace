@@ -1,0 +1,15 @@
+.gul_baggrund {
+    background-color: #ECD7B2;
+}
+
+#p_1 {
+    width: 200%;
+}
+
+
+
+.grid_1-1-1-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1em;
+}
