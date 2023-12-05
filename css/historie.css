@@ -1,14 +1,17 @@
 img {
   max-width: 100%;
   align-items: center;
+  width: 80%;
+  height: auto;
 }
 
 .grid_1-1 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1em;
+  text-align: center;
 }
-.left-grid {
+/* .left-grid {
   position: relative;
   margin-left: 0%;
   margin-right: -30%;
@@ -18,4 +21,4 @@ img {
   position: relative;
   margin-left: 30%;
   margin-right: 0%;
-}
+} */
