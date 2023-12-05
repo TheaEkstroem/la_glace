@@ -11,6 +11,9 @@
     margin: 5%;
     text-align: center;
 }
+.kage:hover{
+    transform: scale(1.04);
+}
 .sportskage{
     background-color: #ECD7B2
 }
@@ -40,4 +43,13 @@
 }
 img{
     margin-top: 15%;
+}
+.logo{
+    margin: 0%;
+}
+p{
+    margin-top: 20%;
+}
+a{
+    text-decoration: none;
 }
