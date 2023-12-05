@@ -16,3 +16,11 @@ ul {
   margin: 1em;
   align-items: center;
 }
+
+.højre_grid {
+  margin: auto;
+}
+
+.venstre_grid {
+  margin: auto;
+}
