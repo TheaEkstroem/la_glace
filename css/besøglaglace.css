@@ -10,7 +10,7 @@ ul {
 }
 
 /* Grid */
-@media (min-width: 880px) {
+@media (min-width: 780px) {
   .grid_besøg {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -27,3 +27,44 @@ ul {
     margin-top: 0.5em;
   }
 }
+
+/* øve footer */
+
+/* h4 {
+  font-family: "Cormorant Garamond", sans-serif;
+  color: rgb(74, 64, 43);
+  font-size: 25px;
+  font-weight: 400;
+} */
+
+/* @media (min-width: 780px) {
+  .footer_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    margin: 5%;
+  }
+  .footer_grid {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+} */
+/* 
+.footer_logo_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.icon {
+  max-width: 50%;
+  max-height: 50%;
+}
+
+#width40 {
+  max-width: 30ch;
+}
+
+.footer_logo {
+  margin: auto;
+}
+ */
