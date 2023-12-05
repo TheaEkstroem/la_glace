@@ -31,3 +31,7 @@ nav {
 .img_hover:hover {
     opacity: 90%;
 }
+
+p {
+    width: 50%;
+}
