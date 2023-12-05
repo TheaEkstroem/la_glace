@@ -1,6 +1,7 @@
 body{
     background-color: #FAF4EA;
 }
+/* Header */
 .header{
     display: flex;
     flex-direction: row;
@@ -12,4 +13,11 @@ body{
     color: black;
     font-size: 1rem;
     margin-right: 59px;
+  }
+  .logo{
+    width: 30%;
+    height: auto;
+  }
+  header{
+    text-align: center;
   }
