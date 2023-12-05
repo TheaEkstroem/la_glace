@@ -10,17 +10,20 @@ ul {
 }
 
 /* Grid */
-.grid_besøg {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin: 1em;
-  align-items: center;
-}
+@media (min-width: 880px) {
+  .grid_besøg {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1em;
+    align-items: center;
+  }
 
-.højre_grid {
-  margin: auto;
-}
+  .højre_grid {
+    margin: auto;
+  }
 
-.venstre_grid {
-  margin: auto;
+  .venstre_grid {
+    margin: auto;
+    margin-top: 0.5em;
+  }
 }
