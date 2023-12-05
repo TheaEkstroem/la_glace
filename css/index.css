@@ -1,12 +1,12 @@
 .logo {
     display: block;
     margin: 2% auto 2% auto;
-    width: 80%;
+    width: 60%;
     height: auto;
 }
 
 nav {
-    display: none;
+    margin: 40px 0;
 }
 
 /* evt. større billeder */
@@ -23,7 +23,7 @@ nav {
 }
 
 p {
-    width: 50%;
+    width: 60%;
 }
 
 @media (min-width: 650px) {
