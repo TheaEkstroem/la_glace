@@ -1,0 +1,15 @@
+body{
+    background-color: #FAF4EA;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+  }
+  header a{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    margin-right: 59px;
+  }
