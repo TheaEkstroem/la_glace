@@ -13,7 +13,7 @@ header, main{
 
 .logo {
     display: block;
-    margin: 2% auto 2% auto;
+    margin: 10% auto 2% auto;
     width: 60%;
     height: auto;
 }
@@ -55,6 +55,7 @@ nav {
 
 p {
     width: 60%;
+    margin-left: 10%;
 }
 
 .section {
