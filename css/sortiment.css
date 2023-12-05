@@ -4,12 +4,16 @@
     grid-template-rows: 1fr 1fr 1fr;
     gap: 5px;
 }
+h1{
+    margin: 1%;
+}
 .kage {
     width: 90%;
     aspect-ratio: 1/1.5;
     padding: 1%;
     margin: 5%;
     text-align: center;
+    border-radius: 3%;
 }
 .kage:hover{
     transform: scale(1.04);
