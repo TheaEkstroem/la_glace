@@ -1,6 +1,9 @@
 body {
   background-color: #faf4ea;
 }
+img {
+  max-width: 100%;
+}
 /* Header */
 .header {
   display: flex;
