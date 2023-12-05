@@ -1,6 +1,9 @@
 body {
   background-color: #faf4ea;
 }
+img {
+  max-width: 100%;
+}
 /* Header */
 .header {
   display: flex;
@@ -35,10 +38,17 @@ header {
 
 h1 {
   font-family: "Tangerine", cursive;
-  color: black;
+  color: rgb(76, 115, 78);
   font-size: 100px;
   font-weight: 400;
   text-align: center;
+}
+
+h2 {
+  font-family: "Cormorant Garamond", sans-serif;
+  color: black;
+  font-size: 30px;
+  font-weight: 400;
 }
 
 p {
