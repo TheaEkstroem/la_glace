@@ -16,7 +16,7 @@ img {
   justify-content: space-around;
   list-style: none;
 }
-.imgnav{
+.imgnav {
   margin-right: 19px;
 }
 
@@ -25,7 +25,7 @@ header a {
   color: black;
   font-size: 1rem;
 }
-.textnav{
+.textnav {
   margin-right: 59px;
 }
 .logo {
@@ -67,6 +67,7 @@ p {
   color: rgb(74, 64, 43);
   font-size: 20px;
   font-weight: 400;
+  line-height: 30px;
 }
 a {
   font-family: "Cormorant Garamond", sans-serif;
