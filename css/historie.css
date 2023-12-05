@@ -10,9 +10,11 @@ img {
   margin-bottom: 70px;
 }
 h3 {
-  font-weight: 400;
+  font-size: x-large;
   color: rgb(74, 64, 43);
   line-height: 30px;
+  margin-bottom: 5%;
+  font-family: "Cormorant Garamond", sans-serif;
 }
 
 .grid_1-1 {
