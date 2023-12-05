@@ -98,10 +98,10 @@ a {
 }
 
 /* footer */
-
 .footer_logo_grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  margin: auto;
 }
 .icon {
   max-width: 50%;
