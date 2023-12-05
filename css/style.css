@@ -1,15 +1,14 @@
 body {
   background-color: #faf4ea;
 }
-<<<<<<< HEAD
+
 
 main {
   margin-left: 10%;
   margin-right: 10%;
-=======
+}
 img {
   max-width: 100%;
->>>>>>> 2cb3ed41f5533b32f563efca8d5fd77976617729
 }
 /* Header */
 .header {
