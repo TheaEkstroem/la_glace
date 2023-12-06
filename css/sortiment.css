@@ -12,6 +12,7 @@
     margin: 5%;
     text-align: center;
     border-radius: 3%;
+    
 }
 }
 @media (max-width: 880px){
@@ -24,6 +25,11 @@
         border-radius: 3%;
         translate: 13%;
     }
+ }
+ .kage img{
+    width: 296.95px;
+    height: 197.33px;
+    margin-top: 15%;
  }
 h1{
     margin: 1%;
@@ -59,11 +65,7 @@ h1{
 .hcHat{
     background-color: #CAB3A4;
 }
-img{
-    width: 296.95px;
-    height: 197.33px;
-    margin-top: 15%;
-}
+
 .logo{
     margin: 0%;
 }
