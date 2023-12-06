@@ -25,6 +25,9 @@
         border-radius: 3%;
         translate: 13%;
     }
+    footer p{
+        font-size: 20px;
+    }
  }
  .kage img{
     width: 296.95px;
@@ -69,7 +72,7 @@ h1{
 .logo{
     margin: 0%;
 }
-p{
+.kage p{
     margin-top: 22%;
     font-size: 24px;
 }
