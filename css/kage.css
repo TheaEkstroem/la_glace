@@ -35,10 +35,32 @@ main {
   margin-left: 15px;
 }
 
+.gul_border {
+    border: 2px solid #ecd7b2;
+    border-radius: 3%;
+    margin: 50px 0 50px 0;
+}
+
+#anmeldelse_1 {
+    padding: 10px 30px;
+    margin: 50px 0 50px 50px;
+}
+
+#anmeldelse_2 {
+    padding: 10px 30px;
+    margin: 50px 50px 50px 0;
+}
+
 @media (min-width: 650px) {
   .grid_1-1 {
     display: grid;
     grid-template-columns: 600px 1fr;
+  }
+
+  .anmeldelse_grid_1-1 {
+    display: grid;
+    grid-template-columns: 600px 1fr;
+    gap: 2em;
   }
 }
 
