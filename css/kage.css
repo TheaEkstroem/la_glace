@@ -1,47 +1,49 @@
 main {
-    margin: 20px;
+  margin: 20px;
 }
 
 .gul_box {
-    background-color: #ECD7B2;
-    border-radius: 3%;
-    margin: 0 10px 30px 70px;
+  background-color: #ecd7b2;
+  border-radius: 3%;
+  margin: 0 10px 30px 70px;
 }
 
-#img_1 { 
-    display: flex;
-    justify-content: center;
-    padding: 70px 50px;
+#img_1 {
+  display: flex;
+  justify-content: center;
+  padding: 70px 50px;
 }
 
 #p_1 {
-    width: 70%;
-    margin-left: 30px;
+  width: 70%;
+  margin-left: 30px;
 }
 
 #p_2 {
-    width: 70%;
-    margin-left: 30px;
+  width: 70%;
+  margin-left: 30px;
 }
 
 #imgs_2 {
-    display: flex;
-    flex-direction: row;
-    margin: 0 10px 30px 55px;
+  display: flex;
+  flex-direction: row;
+  margin: 0 10px 30px 55px;
 }
 
 #imgs_2 img {
-    max-width: 48%;
-    margin-left: 15px;
+  max-width: 48%;
+  margin-left: 15px;
 }
-
 
 @media (min-width: 650px) {
-
-    .grid_1-1 {
-        display: grid;
-        grid-template-columns: 600px 1fr;
-    }
-
+  .grid_1-1 {
+    display: grid;
+    grid-template-columns: 600px 1fr;
+  }
 }
 
+ul {
+  font-family: "Cormorant Garamond";
+  font-size: 20px;
+  color: rgb(74, 64, 43);
+}
