@@ -174,57 +174,54 @@ button:hover {
 }
 
 @media screen and (max-width: 800px) {
-
   nav {
-      justify-content: start;
+    justify-content: start;
   }
 
   .menu {
-      display: none;
+    display: none;
   }
-  
+
   .burger {
-      display: block;
+    display: block;
   }
 
   .burger.active .line:nth-child(1) {
-      transform: rotate(45deg) translate(5px, 5px);
-      transition: 0.2s linear;
+    transform: rotate(45deg) translate(5px, 5px);
+    transition: 0.2s linear;
   }
-  
+
   .burger.active .line:nth-child(2) {
-      opacity: 0;
-      transition: 0.15s linear;
+    opacity: 0;
+    transition: 0.15s linear;
   }
-  
+
   .burger.active .line:nth-child(3) {
-      transform: rotate(-45deg) translate(5px, -5px);
-      transition: 0.2s linear;
+    transform: rotate(-45deg) translate(5px, -5px);
+    transition: 0.2s linear;
   }
 
   nav.active .menu {
-      display: block;
-      background-color: #D6D1C4;
-      position: absolute;
-      top: 40px;
-      left: 0;
-      width: 100%;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      z-index: 1;
+    display: block;
+    background-color: #d6d1c4;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1;
   }
 
   nav.active .menu li {
-      margin: 15px 20px;
-  }
-  
-  nav.active .menu a {
-      font-size: 24px;
+    margin: 15px 20px;
   }
 
+  nav.active .menu a {
+    font-size: 24px;
+  }
 }
 
 @media (min-width: 780px) {
-  
   .footer_container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
