@@ -14,6 +14,10 @@ img {
   border-radius: 2%;
 }
 
+hr {
+  color: rgb(76, 115, 78);
+}
+
 /* Grid */
 @media (min-width: 780px) {
   .grid_besøg {
