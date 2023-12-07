@@ -28,10 +28,6 @@ a {
     text-decoration: none;
 }
 
-#velkommen {
-    margin: 40px -10px;
-}
-
 h1 {
     margin: 40px 0 5px 0;
     font-size: 70px;
@@ -39,6 +35,10 @@ h1 {
 
 p {
     padding: 0 15px 20px 35px;
+}
+
+#velkommen {
+    margin: 40px -10px;
 }
 
 .farvet_box {
@@ -70,6 +70,33 @@ p {
 
 .grid_1-1-1 {
     margin-bottom: 70px;
+}
+
+footer p{
+    padding: 0;
+}
+
+.form-felt {
+    margin-bottom: 10px;
+}
+
+.form-felt input {
+    padding: 5px;
+    font-family: "Cormorant Garamond", sans-serif;
+    font-size: 18px;
+}
+
+.form-felt :focus {
+    outline: none;
+}
+
+button {
+    font-family: "Cormorant Garamond", sans-serif;
+    font-size: 16px;
+}
+
+button:hover {
+    cursor: pointer;
 }
 
 @media (min-width: 650px) {
