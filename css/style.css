@@ -77,7 +77,7 @@ nav {
 .menu {
   display: flex;
   list-style: none;
-  margin: 30px 0 0 0;
+  margin: 10px 0 0 0;
   padding: 0;
 }
 
@@ -91,14 +91,17 @@ nav {
 
 .menu a {
   display: block;
-  padding: 10px;
+  padding: 20px;
   text-decoration: none;
   transition: color 0.3s;
   text-align: start;
+  color: rgb(76, 115, 78);
+  font-size: 25px;
+  margin-top: 0%;
 }
 
 .menu a:hover {
-  color: rgb(76, 115, 78);
+  color: rgb(74, 64, 43);
 }
 
 .burger {
