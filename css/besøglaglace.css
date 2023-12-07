@@ -10,6 +10,10 @@
   color: rgb(74, 64, 43);
 }
 
+img {
+  border-radius: 2%;
+}
+
 /* Grid */
 @media (min-width: 780px) {
   .grid_besøg {
@@ -27,5 +31,13 @@
   .venstre_grid {
     margin: auto;
     margin-top: 0.5em;
+  }
+
+  .grid_1-1-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+    margin-bottom: 50px;
+    margin-top: 50px;
   }
 }
