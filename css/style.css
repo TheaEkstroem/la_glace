@@ -59,6 +59,10 @@ a {
 
 /* Navigation */
 
+hr {
+  color: rgb(76, 115, 78);
+}
+
 nav {
   display: flex;
   justify-content: space-around;
