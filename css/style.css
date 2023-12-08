@@ -82,7 +82,7 @@ nav {
 .menu {
   display: flex;
   list-style: none;
-  margin: 20px 0 0 0;
+  margin: 26px 0 0 0;
   padding: 0;
 }
 
@@ -111,7 +111,7 @@ nav {
 
 .burger {
   position: absolute;
-  top: 10px;
+  top: 12px;
   left: 10px;
   width: 30px;
   height: 20px;
@@ -195,7 +195,7 @@ button:hover {
   }
 
   .logo {
-    width: 70%;
+    width: 80%;
     height: auto;
   }
 
