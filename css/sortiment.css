@@ -23,7 +23,8 @@
         margin: 5%;
         text-align: center;
         border-radius: 3%;
-        translate: 13%;
+        margin: auto;
+        margin-bottom: 7%;
     }
     footer p{
         font-size: 20px;
