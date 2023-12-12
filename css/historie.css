@@ -4,21 +4,21 @@ img {
   width: 70%;
   height: auto;
 }
-.left{
+.left {
   margin-right: 2.5%;
 }
-.right{
+.right {
   margin-left: 2.5%;
 }
-footer img{
+footer img {
   width: auto;
 }
 .gimg {
-margin-left: 15%;
+  margin-left: 15%;
   margin-top: 70px;
   margin-bottom: 70px;
 }
-.bimg{
+.bimg {
   margin-left: 14%;
   margin-top: 70px;
   margin-bottom: 70px;
