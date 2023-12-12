@@ -4,12 +4,22 @@ img {
   width: 70%;
   height: auto;
 }
-
+.left{
+  margin-right: 2.5%;
+}
+.right{
+  margin-left: 2.5%;
+}
 footer img{
   width: auto;
 }
 .gimg {
-  translate: 15%;
+margin-left: 15%;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.bimg{
+  margin-left: 14%;
   margin-top: 70px;
   margin-bottom: 70px;
 }
@@ -23,7 +33,7 @@ h3 {
 .fgen {
   width: 50%;
   height: auto;
-  translate: 50%;
+  margin-left: 25%;
 }
 @media (min-width: 880px) {
   .grid_1-1 {
@@ -36,6 +46,6 @@ h3 {
   .fgen {
     width: 70%;
     height: auto;
-    translate: 20%;
+    margin-left: 14%;
   }
 }
